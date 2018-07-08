@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-	 <url>file:///home/ubuntu/</url>
+	 <url>file:///home/ubuntu/jenkins/</url>
        </repository>
    </distributionManagement>
 
